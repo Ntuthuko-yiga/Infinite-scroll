@@ -18,12 +18,12 @@ h1 {
   font-size: 40px;
   letter-spacing: 5px;
 }
-h5 {
+/* h5 {
   text-align: center;
   letter-spacing: 2px;
   font-weight: 300;
   margin-top: 20px;
-}
+} */
 .loader{
 position: fixed;
 top: 0;
